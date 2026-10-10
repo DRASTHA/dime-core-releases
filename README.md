@@ -1,4 +1,4 @@
-# DIME CORE — Roblox Studio ↔ VS Code Sync
+# DIME CORE - Roblox Studio ↔ VS Code Sync
 
 Two-way sync between Roblox Studio and VS Code: scripts, instances, properties,
 attributes and tags. By DIME PRODUCTION (drastxxx).
